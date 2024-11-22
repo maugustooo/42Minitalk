@@ -2,7 +2,7 @@
 This project consists of two programs that communicate between each other. The `client` program is designed to send messages, whereas `server` is designed to receive them. 
 
 <div align="center">
-	<h1><a href="https://github.com/maugustooo/42Minitalk/blob/main/en.subject.pdf">Subject</a></h1>
+	<h1><a href="https://github.com/maugustooo/42Minitalk/blob/main/en.subject .pdf">Subject</a></h1>
 </div>
 
 ## A Video of How It Works
